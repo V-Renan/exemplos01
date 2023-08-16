@@ -1,0 +1,2 @@
+programação procedural: É como se uma casa fosse construida toda de uma vez apenas por uma pessoa.
+programação orientada a objetos: É como se uma casa fosse construida por partes separadas e por várias pessoas, como por exemplo, o jorge faz a parte do banheiro, a maria faz a parte da sala, o marcio faz a parte da cozinha.
